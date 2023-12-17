@@ -1,0 +1,4 @@
+alt+shift+F        To make code in formate
+alt+shift+down     To make muliple code 
+alt+F              To find 
+  
