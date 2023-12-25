@@ -1947,8 +1947,9 @@ blockquote cite {
     height: 90vh;
     min-height: 700px;
 }
+/* 1400px */
 .main-swiper .container {
-    max-width: 1400px;
+    max-width: 1700px; 
 }
 @media screen and (max-width: 1400px) {
   .banner-content h2.banner-title {
